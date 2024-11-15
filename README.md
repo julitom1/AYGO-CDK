@@ -1,3 +1,11 @@
+# Descripción
+
+Uso básico de CDK, creación de un proyecto cdk, que despliega la creación de una Lambda usando un role predeterminado y colocando un recurso url para acceder a la página
+
+
+##
+
+
 # Autores
 
 * Yarit Yajanny Villalobos Jimenez
